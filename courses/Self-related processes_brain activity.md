@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Vector Calculus"
+title: "Self-related processes & brain activity"
 ---
 
 #### Course Information
