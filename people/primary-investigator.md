@@ -2,8 +2,10 @@
 layout: page
 title: "Tzu-Yu Hsu PhD"
 ---
+Head of Brain & Cognition Lab
 
 Associate Professor - Graduate Institute of Mind, Brain and Consciousness
+
 Faculty - Brain and Consciousness Research Centre
 
 Taipei Medical University
