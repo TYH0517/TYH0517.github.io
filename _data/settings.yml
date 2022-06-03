@@ -13,7 +13,7 @@ people:
 - {name: 'Charlie Chiang', title: 'Administrative Assistant', department: 'Graduate Institute of Mind, Brain and Consciousness', institution: 'Taipei Medical University', email: 'charlie55@tmu.edu.tw', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 projects:
-- {name: 'Self-relted processes & Brain activity', url: 'test'}
+- {name: 'Self-relted processes & Brain activity', url: 'Self-relted processes & Brain activity'}
 - {name: 'Visual awareness, Consciousness, & Brain', url: 'visual_awareness'}
 - {name: 'Time process & brain', url: 'stellar-structures'}
 
