@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Stellar Structures"
+title: "test"
 ---
 
 #### Course Information
