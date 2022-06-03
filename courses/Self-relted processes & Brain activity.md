@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Self-related processes & brain activity"
+title: "Self-relted processes & Brain activity"
 ---
 
 #### Course Information
