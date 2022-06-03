@@ -1,4 +1,4 @@
-featured:
+index:
 - {name: 'Chen, P.H., Ku, H.L., Wang, J.K., Kang, J.H. *, Hsu, T.Y. * (2022). EEG Microstates Are Correlated With Global Functioning in Schizophrenia But Not Bipolar Disorder. Clinical EEG & Neuroscience.', url: 'https://pubmed.ncbi.nlm.nih.gov/35491557/'}
 - {name: 'Hsu, T-Y†, Zhou, J-F†, Yeh, S-L*, Northoff, G, Lane, T. J.* (2022) Intrinsic neural activity predisposes susceptibility to a body illusion. Cerebral Cortex Communication.', url: 'https://pubmed.ncbi.nlm.nih.gov/35382092/'}
 - {name: 'Hsu, T.Y. ┼, Chen, J.T. ┼, Tseng, P., Wang, C.A. * (2021) Role of the frontal eye field in human microsaccade responses: a TMS study. Biological psychology.', url: 'https://pubmed.ncbi.nlm.nih.gov/34634433/'}
@@ -22,7 +22,7 @@ featured:
 - {name: 'Chao, C.M., Tseng, P., Hsu, T.Y., Su, J.H., Tzeng, O.J.L., Hung, D.L., Muggleton, N.G., Juan, C.H. (2010) Predictability of saccadic behaviors is modified by transcranial magnetic stimulation over human posterior parietal cortex. Human Brain Mapping, 32(11), 1961-72.', url: 'https://pubmed.ncbi.nlm.nih.gov/21259383/'}
 - {name: 'Tseng, P., Hsu, T.Y., Muggleton, N.G., Tzeng, O.J.L., Hung, D.L. & Juan, C.H. (2010) Posterior Parietal Cortex Mediates Encoding and Maintenance Processes in Change Blindness. Neuropsychologia, 48(4), 1063-70.', url: 'https://pubmed.ncbi.nlm.nih.gov/20005882/'}
 
-index:
+feature:
 - {name: 'Chen, P.H., Ku, H.L., Wang, J.K., Kang, J.H. *, Hsu, T.Y. * (2022). EEG Microstates Are Correlated With Global Functioning in Schizophrenia But Not Bipolar Disorder. Clinical EEG & Neuroscience.', url: 'https://pubmed.ncbi.nlm.nih.gov/35491557/'}
 - {name: 'Hsu, T.Y.┼, Liu, T.L., Cheng, P.Z., Lee, H.C., Lane. T. J.*, Duncan, N.W.* ┼ (2021). Depressive rumination is correlated with the difference between self-oriented decision-making. Journal of Psychiatry and Neuroscience (┼ equal contribution).', url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8526127/'}
 - {name: 'Hsu, T.Y., Lee, H.C., Lane, T.J., Missal, M. (2019). Temporal Preparation, Impulsivity and Short-Term Memory in Depression. Frontiers in Behavioral Neuroscience.', url: 'https://pubmed.ncbi.nlm.nih.gov/31824272/'}
