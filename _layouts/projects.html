@@ -7,7 +7,7 @@ layout: default
 <div class="row g-5 mb-5">
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">projects</h3>
-    {% for course in site.data.settings.projects %}
+    {% for projects in site.data.settings.projects %}
       <p><a href="{{ site.github.url }}/projects/{{ projects.url}}">{{ project.name }}</a></p>
     {% endfor %}
   </div>
