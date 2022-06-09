@@ -3,6 +3,6 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
+We are interested in understanding the regularities of brain activity that underlie adaptive cognition and behaviours. Our laboratory uses state-of-the-art noninvasive brain imaging techniques, including EEG/MEG, brain stimulation, and MRI, in order to explore the neural basis for a variety of cognitive functions. Additionally, we collaborate with clinical doctors to examine how patients with mental and neurological disorders affect these basic functions in large-scale dynamic neural systems. 
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Our laboratory is friendly and supportive. LGBTQ individuals, as well as individuals of different ethnicities, are welcome in our laboratory. Diversity serves as a foundation for fostering motivation and creativity at our lab. We also promote eco-friendly practices. Please do not hesitate to contact us if you are interested in our laboratory. 
