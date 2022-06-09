@@ -2,7 +2,7 @@ menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/projects'}
-- {name: 'cv', url: '/cv'}
+- {name: 'participating', url: '/participants'}
 - {name: 'contact', url: '/contact'}
 
 people:
