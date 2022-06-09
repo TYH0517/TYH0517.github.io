@@ -17,7 +17,7 @@ projects:
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 participating:
--{name: 'participating', image: 'participants/participants.jpg'}
+-{name: 'participating', image: 'assets/img/participants.jpg'}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
