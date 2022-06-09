@@ -2,7 +2,7 @@ menu:
 - {name: 'people', url: '/people'}
 - {name: 'publications', url: '/publications'}
 - {name: 'projects', url: '/projects'}
-- {name: 'participating', url: '/cv'}
+- {name: 'participants', url: '/participants'}
 - {name: 'contact', url: '/contact'}
 
 people:
@@ -17,7 +17,7 @@ projects:
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
 participating:
--{name: 'participating', image: 'assets/img/participants.jpg'}
+-{name: 'participants}
 
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
