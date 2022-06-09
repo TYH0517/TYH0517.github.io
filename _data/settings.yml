@@ -16,6 +16,8 @@ projects:
 - {name: 'Self-relted processes & Brain activity', url: 'Self-relted processes & Brain activity'}
 - {name: 'Visual awareness, Consciousness, & Brain activity', url: 'visual_awareness'}
 
+participating:
+-{name: 'participanting', image: '/participants/participants.jpg'}
 social:
 - {icon: 'github', link: 'https://github.com/LeNPaul'}
 - {icon: 'twitter', link: 'https://twitter.com/paululele'}
